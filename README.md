@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 
 
-![Ramanan's github stats](https://github-readme-stats.vercel.app/api?username=Ramanan01&show_icons=true&theme=dark)
+//![Ramanan's github stats](https://github-readme-stats.vercel.app/api?username=Ramanan01&show_icons=true&theme=dark)
