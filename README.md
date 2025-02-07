@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 -->
 
   🔭 I currently work as a Java developer at Morgan Stanley with the electronic trading team, where I collaborate to build a high-performance, low-latency, event-driven portfolio trading application.
-- 🌱 I’m currently learning Data Structures, Operating Systems, Database Management Systems, ReactJS ,Basic ML Algorithms
-
+- 🌱 My areas of interest include backend development, data structures and algorithms, reactive programming, machine learning, and natural language processing 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -29,8 +28,6 @@ Here are some ideas to get you started:
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 
 <br/>
