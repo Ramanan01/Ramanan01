@@ -1,5 +1,5 @@
 ### Hi there👋
-I'm Ramanan M V, a 19-year technology enthusiast. As a budding software engineer, I am interested in learning about various domains of the technology field<br>
+I'm a software developer at Morgan Stanley, driven by a passion for technology and lifelong learning. With a bachelor's degree in Information Technology, I enjoy exploring diverse tech stacks and expanding my expertise.<br>
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ramanan-m-v-2671221b5) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Ramanan01)
 <!--
