@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   
 - 🌐 &nbsp;
-  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   
