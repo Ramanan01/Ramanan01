@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Structures, Operating Systems, Database Management Systems, ReactJS ,Basic ML Algorithms
 
 - 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   
